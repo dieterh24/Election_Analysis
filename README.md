@@ -42,3 +42,4 @@ Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 -------------------------
+This analysis script can be modified & used for future election analysis with an opportunity for real time data flow (e.g., database and API's for example).  
