@@ -20,7 +20,7 @@ An analysis of the election results reflected 369,711 total votes, to include th
 Along with the election summary provided to Seth and Tom with candidates information, number of votes and %'s by candidate and the winner, the Election Board requested additional information about adding county stats (such as votes by county, and the largest county voter turnout (percentages and votes to total by county)).
 
 ## Challenge Summary
-Below are the challenge results with Denver having the largest turnout of voters (82.8%) and Diana DeGette winning the election based on the popular vote:
+Below are the challenge results with total votes of 369,711 over three counties, Denver having the largest turnout of voters (82.8%) and Diana DeGette winning the election based on the popular vote:
 
 Election Results
 -------------------------
